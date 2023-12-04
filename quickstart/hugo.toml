@@ -1,0 +1,3 @@
+baseURL = 'http://3.145.61.73/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
